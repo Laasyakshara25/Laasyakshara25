@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Laasyakshara25
 - 🌱 I’m currently learning Machine Learning and Web Development
-- 📫 How to reach me at laasyaksharap@gmail.com
+- 📫 Reach me at laasyaksharap@gmail.com
 - 😄 Pronouns: She/Her
   
 
