@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Laasyakshara
-- 🌱 I’m currently learning Machine Learning and Web Development
+- 🌱 I’m currently explring Deep Learning, Computer Vision and Web Development
 - 📫 Reach me at laasyaksharap@gmail.com
 - 😄 Pronouns: She/Her
+- Cuurent read: Hands 
 
 
 ## 📊 Stats and Contributions
