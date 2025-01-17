@@ -2,7 +2,7 @@
 - 🌱 I’m currently explring Deep Learning, Computer Vision and Web Development
 - 📫 Reach me at laasyaksharap@gmail.com
 - 😄 Pronouns: She/Her
-- Cuurent read: "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron 
+- Current read: "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron 
 
 
 ## 📊 Stats and Contributions
