@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Laasyakshara
-- 🌱 I’m currently explring Deep Learning, Computer Vision and Web Development
+- 🌱 I’m currently exploring Deep Learning, Computer Vision and Web Development
 - 📫 Reach me at laasyaksharap@gmail.com
 - 😄 Pronouns: She/Her
 - Current read: "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron 
